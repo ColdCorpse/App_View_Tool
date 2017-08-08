@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-use for things
+```
+  @copyright=AppViewTool::Renderer.copyright 'Unknown Subject','All rights reserved' 
+```
 
 ## Development
 
